@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Bouncy Runner",
+    "thumbnail": "https://placehold.co/800x450/6d28d9/fff?text=Bouncy+Runner",
+    "url": "https://games.crazygames.com/en_US/crossy-road/index.html",
+    "tags": ["runner", "arcade"],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Space Blaster",
+    "thumbnail": "https://placehold.co/800x450/2563eb/fff?text=Space+Blaster",
+    "url": "https://games.crazygames.com/en_US/space-blaster/index.html",
+    "tags": ["shooter", "space"],
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "Puzzle Forge",
+    "thumbnail": "https://placehold.co/800x450/0ea5e9/fff?text=Puzzle+Forge",
+    "url": "https://games.crazygames.com/en_US/2048/index.html",
+    "tags": ["puzzle"],
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "title": "Drift Kings",
+    "thumbnail": "https://placehold.co/800x450/f59e0b/fff?text=Drift+Kings",
+    "url": "https://games.crazygames.com/en_US/madalin-cars-multiplayer/index.html",
+    "tags": ["racing", "3d"],
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "Tower Defense+",
+    "thumbnail": "https://placehold.co/800x450/10b981/fff?text=Tower+Defense%2B",
+    "url": "https://games.crazygames.com/en_US/defend-the-tower/index.html",
+    "tags": ["strategy", "tower"],
+    "rating": 4.3
+  }
+]
